@@ -1,0 +1,27 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Node Practice",
+  "main": "server.js",
+  "dependencies": {
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "server.test.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doujones/NodeJs1.git"
+  },
+  "keywords": [
+    "Will"
+  ],
+  "author": "William Boswell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doujones/NodeJs1/issues"
+  },
+  "homepage": "https://github.com/doujones/NodeJs1#readme"
+}
